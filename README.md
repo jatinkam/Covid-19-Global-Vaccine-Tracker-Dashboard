@@ -9,6 +9,12 @@ This project creates an interactive Tableau dashboard tracking global COVID-19 v
 - It includes filters to analyze trends by location, date range,  and other parameters.🗺️📅
 
 
+## Screenshots
+
+![covid project](https://github.com/jatinkam/Covid-19-Global-Vaccine-Tracker-Dashboard/assets/113269173/6a4da8c4-27ee-4504-9309-ae41447c7c74)
+
+
+
 ## Usage💻
 
 To use this dashboard:
