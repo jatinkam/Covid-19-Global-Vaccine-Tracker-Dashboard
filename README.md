@@ -1,6 +1,8 @@
 
 # Global COVID-19 Vaccine Tracker💉🌍
 
+Tableau Dashboard - https://public.tableau.com/app/profile/jatin.parihar/viz/CovidProject_16916101484840/GlobalVaccineTracker
+
 This project creates an interactive Tableau dashboard tracking global COVID-19 vaccination progress. The dashboard provides insights into:
 
 - Vaccination rates by country.
